@@ -15,7 +15,7 @@ Users should be able to:
 ### Links
 
 - Challenge URL: [https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)
-- Solution URL: [Add Solution URL](https://solution-blog-preview-card.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/blog-preview-card-chctBx5b-5](https://www.frontendmentor.io/solutions/blog-preview-card-chctBx5b-5)
 - Live Site URL: [https://r0b3rtcode020.github.io/blog-preview-card](https://r0b3rtcode020.github.io/blog-preview-card)
 
 ## My process
